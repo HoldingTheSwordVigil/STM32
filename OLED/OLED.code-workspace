@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "cortex-debug.variableUseNaturalFormat": true,
+        "files.associations": {
+            "xstring": "c",
+            "xutility": "c",
+            "string": "c"
+        }
+    },
+    "extensions": {}
+}
